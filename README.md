@@ -12,45 +12,45 @@ All findings are consolidated into an interactive sales dashboard built with Mic
 
 Performance Metrics
 
-What were the total annual orders and sales revenue?
-Which month demonstrated the highest sales and order volume?
+  .What were the total annual orders and sales revenue?
+  .Which month demonstrated the highest sales and order volume?
 
 Customer Insights
-What is the gender distribution of the customer base?
-Which age group (Teenager, Adult, Senior) contributes most significantly to sales?
+  .What is the gender distribution of the customer base?
+  .Which age group (Teenager, Adult, Senior) contributes most significantly to sales?
 
 Channel & Operations Analysis
 
-What is the breakdown of order statuses (Delivered, Cancelled, Returned)?
-Which sales channel (e.g., Myntra, Ajio, Flipkart) is the most effective revenue driver?
+  .What is the breakdown of order statuses (Delivered, Cancelled, Returned)?
+  .Which sales channel (e.g., Myntra, Ajio, Flipkart) is the most effective revenue driver?
 
 Geographical Performance
 
-Which are the top 5 states by sales contribution?
+  .Which are the top 5 states by sales contribution?
 
 🧰 Tools & Technologies
 
-Microsoft Excel was used for the entire project lifecycle:
-Data Cleaning & Processing: Validated data, handled missing values, corrected data types, and standardized formats.
-Data Analysis: Leveraged Pivot Tables, advanced formulas, and filters to aggregate and interpret data.
-Data Visualization: Designed and built an interactive dashboard using slicers, charts, and graphs to present insights clearly and effectively.
+  .Microsoft Excel was used for the entire project lifecycle:
+  .Data Cleaning & Processing: Validated data, handled missing values, corrected data types, and standardized formats.
+  .Data Analysis: Leveraged Pivot Tables, advanced formulas, and filters to aggregate and interpret data.
+  .Data Visualization: Designed and built an interactive dashboard using slicers, charts, and graphs to present insights clearly and effectively.
 
 🔄 Project Workflow
 
-Data Cleaning
+1.Data Cleaning
 
-Inspected the dataset (Vrinda Store Data Analysis.csv) for inconsistencies.
-Corrected data types and handled blank or missing values to ensure quality and consistency.
+  .Inspected the dataset (Vrinda Store Data Analysis.csv) for inconsistencies.
+  .Corrected data types and handled blank or missing values to ensure quality and consistency.
 
-Feature Engineering
+2.Feature Engineering
 
-Created a new “Age Group” column derived from existing age data.
-Enabled demographic segmentation for deeper insight.
+  .Created a new “Age Group” column derived from existing age data.
+  .Enabled demographic segmentation for deeper insight.
 
-Analysis & Dashboard Creation
+3.Analysis & Dashboard Creation
 
-Built multiple Pivot Tables to summarize the dataset according to business questions.
-Designed a dynamic and interactive dashboard for easy filtering and exploration of insights.
+  .Built multiple Pivot Tables to summarize the dataset according to business questions.
+  .Designed a dynamic and interactive dashboard for easy filtering and exploration of insights.
 
 💡 Key Insights & Actionable Recommendations
 
@@ -76,8 +76,7 @@ Recommendation: Leverage this as a trust-building marketing point to attract new
 
 📈 Outcome
 This analysis and dashboard provide clear, data-driven insights to help Vrinda Store:
-Optimize marketing spend
-Strengthen channel partnerships
-Enhance customer targeting
-
-Drive sustainable sales growth
+.Optimize marketing spend
+.Strengthen channel partnerships
+.Enhance customer targeting
+.Drive sustainable sales growth

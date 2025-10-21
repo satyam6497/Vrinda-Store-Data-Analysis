@@ -1,4 +1,4 @@
-#Vrinda Store Sales Analysis & Dashboard
+Vrinda Store Sales Analysis & Dashboard
 
 Project Overview
 

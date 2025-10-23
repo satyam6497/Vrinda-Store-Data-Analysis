@@ -1,13 +1,13 @@
 # 🛍️ Vrinda Store Sales Analysis & Dashboard
 
-##📊 Project Overview
+📊 Project Overview
 This project presents a comprehensive analysis of Vrinda Store's sales data for the year 2022. The primary objective is to uncover actionable insights into customer purchasing behavior, identify sales trends, and determine key demographics and sales channels to drive business growth. All findings are consolidated into an interactive sales dashboard built with Microsoft Excel.
 
 🖼️ Project Preview
 <img width="1749" height="748" alt="Screenshot 2025-10-23 204006" src="https://github.com/user-attachments/assets/08547f28-9d8b-4b88-9cc4-b78782e2310b" />
 
 
-##🎯 Key Business Questions
+🎯 Key Business Questions
 
 #### Performance Metrics
 * What were the total annual orders and sales revenue?
@@ -68,6 +68,7 @@ This project presents a comprehensive analysis of Vrinda Store's sales data for 
 * **Recommendation:** Leverage this as a trust-building marketing point to attract new customers.
 
 📈  Outcome
+
 This analysis and dashboard provide clear, data-driven insights to help Vrinda Store:
 
 * Optimize marketing spend
@@ -75,9 +76,3 @@ This analysis and dashboard provide clear, data-driven insights to help Vrinda S
 * Enhance customer targeting
 * Drive sustainable sales growth
 
-📈 Outcome
-This analysis and dashboard provide clear, data-driven insights to help Vrinda Store:
-.Optimize marketing spend
-.Strengthen channel partnerships
-.Enhance customer targeting
-.Drive sustainable sales growth

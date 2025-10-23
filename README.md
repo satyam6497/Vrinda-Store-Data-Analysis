@@ -1,7 +1,6 @@
 # 🛍️ Vrinda Store Sales Analysis & Dashboard
 
-📊 ##Project Overview
-
+📊 Project Overview
 This project presents a comprehensive analysis of Vrinda Store's sales data for the year 2022. The primary objective is to uncover actionable insights into customer purchasing behavior, identify sales trends, and determine key demographics and sales channels to drive business growth. All findings are consolidated into an interactive sales dashboard built with Microsoft Excel.
 
 🖼️ Project Preview

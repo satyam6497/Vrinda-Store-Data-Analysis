@@ -12,21 +12,21 @@ All findings are consolidated into an interactive sales dashboard built with Mic
 
 Performance Metrics
 
-  What were the total annual orders and sales revenue?
-  Which month demonstrated the highest sales and order volume?
+  1.What were the total annual orders and sales revenue?
+  2.Which month demonstrated the highest sales and order volume?
 
 Customer Insights
-  What is the gender distribution of the customer base?
-  Which age group (Teenager, Adult, Senior) contributes most significantly to sales?
+  1.What is the gender distribution of the customer base?
+  2.Which age group (Teenager, Adult, Senior) contributes most significantly to sales?
 
 Channel & Operations Analysis
 
-  What is the breakdown of order statuses (Delivered, Cancelled, Returned)?
-  Which sales channel (e.g., Myntra, Ajio, Flipkart) is the most effective revenue driver?
+  1.What is the breakdown of order statuses (Delivered, Cancelled, Returned)?
+  2.Which sales channel (e.g., Myntra, Ajio, Flipkart) is the most effective revenue driver?
 
 Geographical Performance
 
-  Which are the top 5 states by sales contribution?
+  1.Which are the top 5 states by sales contribution?
 
 🧰 Tools & Technologies
 

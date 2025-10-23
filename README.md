@@ -3,8 +3,9 @@
 📊 ## Project Overview
 This project presents a comprehensive analysis of Vrinda Store's sales data for the year 2022. The primary objective is to uncover actionable insights into customer purchasing behavior, identify sales trends, and determine key demographics and sales channels to drive business growth. All findings are consolidated into an interactive sales dashboard built with Microsoft Excel.
 
-🖼️ ## Project Preview
-*(Add your dashboard screenshot here)*
+🖼️ Project Preview
+*<img src="C:\Users\satya\OneDrive\Pictures\Screenshots" alt="Vrinda Store Dashboard" width="600"/>*
+
 🎯 ## Key Business Questions
 
 #### Performance Metrics
@@ -22,14 +23,14 @@ This project presents a comprehensive analysis of Vrinda Store's sales data for 
 #### Geographical Performance
 * Which are the top 5 states by sales contribution?
 
-🧰 ## Tools & Technologies
+🧰  Tools & Technologies
 `Microsoft Excel` was used for the entire project lifecycle:
 
 * **Data Cleaning & Processing:** Validated data, handled missing values, corrected data types, and standardized formats.
 * **Data Analysis:** Leveraged Pivot Tables, advanced formulas, and filters to aggregate and interpret data.
 * **Data Visualization:** Designed and built an interactive dashboard using slicers, charts, and graphs to present insights clearly and effectively.
 
-🔄 ## Project Workflow
+🔄  Project Workflow
 
 1.  **Data Cleaning**
     * Inspected the dataset (`Vrinda Store Data Analysis.csv`) for inconsistencies.
@@ -43,7 +44,7 @@ This project presents a comprehensive analysis of Vrinda Store's sales data for 
     * Built multiple Pivot Tables to summarize the dataset according to business questions.
     * Designed a dynamic and interactive dashboard for easy filtering and exploration of insights.
 
-💡 ## Key Insights & Actionable Recommendations
+💡  Key Insights & Actionable Recommendations
 
 🗓️ **1. January: The Peak Sales Month**
 * **Insight:** January recorded the highest sales and order volume.
@@ -65,7 +66,7 @@ This project presents a comprehensive analysis of Vrinda Store's sales data for 
 * **Insight:** The majority of orders were successfully delivered.
 * **Recommendation:** Leverage this as a trust-building marketing point to attract new customers.
 
-📈 ## Outcome
+📈  Outcome
 This analysis and dashboard provide clear, data-driven insights to help Vrinda Store:
 
 * Optimize marketing spend
